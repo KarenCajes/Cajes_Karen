@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier', 'Times', serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgb(47, 0, 255) 0%, rgba(148,187,233,1) 100%);
+    color: blanchedalmond;
+}
+.title{
+    text-align: center;
+}
+h3{
+    padding-left: 25%;
+    font-size: 30px;
+}
+pre{
+    padding-left: 10%;
+    font-size: 20px;
+}
